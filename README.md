@@ -6,7 +6,7 @@
 
 <br>
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding gif">
+<img align="right" width="260" src="https://github.com/user-attachments/assets/11a936cd-9030-43fd-91c1-c7ac6f70f5c6" alt="Muhammad Zarq Ali">
 
 ### 🎯 About Me
 
