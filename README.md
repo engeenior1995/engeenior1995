@@ -3,7 +3,7 @@
 # Hi, I'm Muhammad Zarq Ali 👋
 ### AI & Data Science Trainer | Python Developer | Content Creator
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1500&color=2F80ED&center=true&vCenter=true&width=600&lines=Teaching+AI+%26+Data+Science+at+SMIT+and+Bano+Qabil;Building+Python+%2B+ML+Powered+Applications;Turning+Data+Into+Decisions,+One+Model+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=2F80ED&center=true&vCenter=true&width=600&lines=Teaching+AI+%26+Data+Science+at+SMIT+and+Bano+Qabil;Building+Python+%2B+ML+Powered+Applications;Turning+Data+Into+Decisions,+One+Model+at+a+Time)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engeenior)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engeenior1995)
