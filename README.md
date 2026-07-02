@@ -65,7 +65,6 @@ Outside the classroom, I build full-stack data & AI projects — from analytics 
 
 </div>
 
-> Note: agar upar wale cards load na hon, ye GitHub ki free stats service ka temporary rate-limit issue hai — refresh karne par ya thodi der baad ye khud theek ho jaate hain.
 
 ---
 
