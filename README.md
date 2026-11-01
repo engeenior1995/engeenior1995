@@ -58,15 +58,12 @@ Outside the classroom, I build full-stack data & AI projects — from analytics 
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engeenior1995&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Zarq's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engeenior1995&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-</p>
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="165" alt="GitHub Stats"/>
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="165" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=engeenior1995&theme=default&hide_border=true&cache_seconds=86400" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=engeenior1995&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
-
 
 ---
 
